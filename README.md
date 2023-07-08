@@ -1,1 +1,1 @@
-https://github.com/Mahi-16/MyProjects/Calculator/
+https://mahi-16.github.io/MyProjects/
